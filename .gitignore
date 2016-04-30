@@ -8,3 +8,6 @@ dist
 /server/config/local.env.js
 npm-debug.log
 coverage
+project.sublime-project
+project.sublime-workspace
+mongodb
